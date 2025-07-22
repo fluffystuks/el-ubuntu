@@ -1,4 +1,4 @@
 # вводим команду чтоб чилл
 ```bash
-stow bash/ nvim/ tmux/
+stow bash/ nvim/ tmux/ scripts/
 ```
